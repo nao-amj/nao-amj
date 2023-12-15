@@ -19,11 +19,12 @@
 I have experience in PC application development, web development, and mobile application development. Recently, I have been stuck in image-generating AI and have fewer opportunities to develop, but I would enjoy creating games in Unity (C#) and Python.
 
 - OS
-  - Windows
-  - Mac
-  - Linux
-  - iOS
-  - Android
+  - `Windows`
+  - `Mac`
+  - `Linux`
+  - `iOS`
+  - `Android`
+  - `ChromeOS`. (+ `ChromeOS Flex`) 
 
 - Programming Languages
   - `C#`, `Python`, `JavaScript`
