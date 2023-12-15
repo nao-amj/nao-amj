@@ -9,7 +9,7 @@
   - 3DCG / AI / XR
   - SNS
 - 🌱 I’m currently learning ...
-  - Engish
+  - English
 
 ---
 
@@ -24,7 +24,7 @@ I have experience in PC application development, web development, and mobile app
   - `Linux`
   - `iOS`
   - `Android`
-  - `ChromeOS`. (+ `ChromeOS Flex`) 
+  - `ChromeOS` (+ `ChromeOS Flex`) 
 
 - Programming Languages
   - `C#`, `Python`, `JavaScript`
