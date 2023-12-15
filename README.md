@@ -5,12 +5,9 @@
 ## Summary：
 
 - 👀 I’m interested in ...
-  - `3DCG`, `AI`, `XR` 
-  - `Astro`, `Unity`, `Processing`
-  - SNS: `Instagram`, `Threads`, `X`, `Tiktok`
-  - Programming Languages
-    - `C#`, `Python`, `JavaScript`
-    - `PHP`, `C++`, `Java`, `VisualBasic`
+  - Development
+  - 3DCG / AI / XR
+  - SNS
 - 🌱 I’m currently learning ...
   - Engish
 
@@ -30,6 +27,7 @@ I have experience in PC application development, web development, and mobile app
 
 - Programming Languages
   - `C#`, `Python`, `JavaScript`
+  - `Swift`, `Kotlin`, `Objective-C`, `Java`
   - `PHP`, `C++`, `Java`, `VisualBasic`
 
 `TODO`
