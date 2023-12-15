@@ -28,9 +28,11 @@ I have experience in PC application development, web development, and mobile app
   - iOS
   - Android
 
-  - Programming Languages
-    - `C#`, `Python`, `JavaScript`
-    - `PHP`, `C++`, `Java`, `VisualBasic`
+- Programming Languages
+  - `C#`, `Python`, `JavaScript`
+  - `PHP`, `C++`, `Java`, `VisualBasic`
+
+`TODO`
 
 ---
 
@@ -46,7 +48,7 @@ As for 3DCG skills,  I prefer modeling inorganic objects such as cars and buildi
 ---
 ### AI
 #### Image-generation AI
-As for image generation AI, I often use "Midjourney" and occasionally use "Stable Diffusion" as an extension of my development skills. I am also interested in "DALL-E3" recently.
+As for image generation AI, I often use `Midjourney` and occasionally use `Stable Diffusion` as an extension of my development skills. I am also interested in "DALL-E3" recently.
 
 ---
 
@@ -55,14 +57,14 @@ As for image generation AI, I often use "Midjourney" and occasionally use "Stabl
 - VR
 - MR
 
-TODO
+`TODO`
 
 ---
 
 ### SNS
 - On IG, I post what I feel when I listen to my favorite music, along with artwork generated using image generation AI.Each post can be accompanied by music up to 90 seconds long, so I enjoy listening to the music that lines my profile grid every day.Please check out my [Instagram account](https://www.instagram.com/nao_anm.msc.jpn/)😊
 
-TODO
+`TODO`
 
 ---
 
