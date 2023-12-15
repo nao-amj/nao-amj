@@ -28,7 +28,9 @@ I have experience in PC application development, web development, and mobile app
 - Programming Languages
   - `C#`, `Python`, `JavaScript`
   - `Swift`, `Kotlin`, `Objective-C`, `Java`
-  - `PHP`, `C++`, `Java`, `VisualBasic`
+  - `PHP`, `C++`, `VisualBasic`
+
+- `Unity`, `Unreal Engine`, Web Framework(`Vue.js`, `React`, `Astro`), `Processing` 
 
 `TODO`
 
