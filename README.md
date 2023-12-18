@@ -81,7 +81,12 @@ As for image generation AI, I often use `Midjourney` and occasionally use `Stabl
 ---
 
 ### English
-TODO
+I am learning to use `Instagram` to improve my English skills.(started in April 2023)
+- I made a start by using translation software(e.g. DeepL). I thought it was important to start anyway.The main forms of communication on `Instagram` are through comments and DMs, and DMs in particular require speed in exchange for a smaller granularity of text.
+- DM communication is nerve-wracking, and the rate at which I have to think about English on my own gradually increases. 
+- At the same time, I can learn words, phrases, and slang in parallel, and feel that I have improved since started `Instagram`.
+- With this study method, I am still continuing my efforts to improve my English skills (`reading` and `writing`).
+- My `listening` has improved a little by listening to podcasts every day, but the problem is `speaking`. I want to think of a good way to do this😊
 
 <!---
 nao-anm-msc-jpn/nao-anm-msc-jpn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
