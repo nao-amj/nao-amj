@@ -1,4 +1,5 @@
 👋 Hi, I’m nao!
+Here is a brief summary of my interests and what I am learning.
 
 ---
 
@@ -87,6 +88,10 @@ I am learning to use `Instagram` to improve my English skills.(started in April 
 - At the same time, I can learn words, phrases, and slang in parallel, and feel that I have improved since started `Instagram`.
 - With this study method, I am still continuing my efforts to improve my English skills (`reading` and `writing`).
 - My `listening` has improved a little by listening to podcasts every day, but the problem is `speaking`. I want to think of a good way to do this😊
+
+---
+
+Thanks for reading this README to the end😊
 
 <!---
 nao-anm-msc-jpn/nao-anm-msc-jpn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
