@@ -6,9 +6,10 @@ Here is a brief summary of my interests and what I am learning.
 ## Summary：
 
 - 👀 I’m interested in ...
-  - Development
+  - 🛠️Development
   - 3DCG / AI / XR
   - SNS
+  - ✏️Pencil drawing
 - 🌱 I’m currently learning ...
   - English
 
@@ -77,6 +78,9 @@ As for image generation AI, I often use `Midjourney` and occasionally use `Stabl
 ### SNS
 - On IG, I post what I feel when I listen to my favorite music, along with artwork generated using image generation AI.Each post can be accompanied by music up to 90 seconds long, so I enjoy listening to the music that lines my profile grid every day.Please check out my [Instagram account](https://www.instagram.com/nao_anm.msc.jpn/)😊
 
+`TODO`
+
+### Pencil drawing
 `TODO`
 
 ---
