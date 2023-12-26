@@ -18,13 +18,13 @@ I have experience in PC app development, web development, and mobile app develop
 - OS
   - `Windows`, `Mac`, `Linux`, `iOS`, `Android`, `ChromeOS` (+ `ChromeOS Flex`) 
 - Programming Languages
-  - `C#`, `Python`, `JavaScript`, `Swift`, `Kotlin`, `Objective-C`, `Java`, `PHP`, `C++`, `VisualBasic`
+  - `C#`, `Python`, `JavaScript`, `Swift`, `Kotlin`, `Objective-C`, `Java`, `PHP`, `C++`, `VisualBasic`, `Lua`
 - Cloud
   - `AWS`, `GCP`, `Firebase`, `Azure`
 - `Unity`, `Unreal Engine`, Web Framework(`Vue.js`, `React`, `Astro`), `Processing` 
 
 And here are some of the programming languages and technologies I would like to learn.
-- `Rust`, `Go`( + `Flutter`),`WASM`, `HLSL`
+- `Rust`, `Dary`( + `Flutter`),`WASM`, `HLSL`
 
 ---
 
