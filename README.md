@@ -24,7 +24,7 @@ I have experience in PC app development, web development, and mobile app develop
 - `Unity`, `Unreal Engine`, Web Framework(`Vue.js`, `React`, `Astro`), `Processing` 
 
 And here are some of the programming languages and technologies I would like to learn.
-- `Rust`, `Dary`( + `Flutter`),`WASM`, `HLSL`
+- `Rust`, `Dart`( + `Flutter`),`WASM`, `HLSL`
 
 ---
 
