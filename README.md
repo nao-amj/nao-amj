@@ -64,11 +64,8 @@ I started my practice in October 2023.
 
 ### English
 I am learning to use `Instagram` to improve my English skills.(started in April 2023)
-- I made a start by using translation software(e.g. DeepL). I thought it was important to start anyway.The main forms of communication on `Instagram` are through comments and DMs, and DMs in particular require speed in exchange for a smaller granularity of text.
-- DM communication is nerve-wracking, and the rate at which I have to think about English on my own gradually increases. 
-- At the same time, I can learn words, phrases, and slang in parallel, and feel that I have improved since started `Instagram`.
-- With this study method, I am still continuing my efforts to improve my English skills (`reading` and `writing`).
-- My `listening` has improved a little by listening to podcasts every day, but the problem is `speaking`. I want to think of a good way to do this😊
+First, I used translation software (such as DeepL). On Instagram, comments and DMs are the main means of communication, especially DMs, which require speed instead of small granularity of sentences.Communicating through DMs is nerve-wracking, and the speed at which I can think of English on my own is gradually increasing.At the same time, I can learn words, phrases, and slang in parallel, so I feel that I have improved since started Instagram.
+I am still continuing my efforts to improve my English skills (reading and writing) with this study method.My listening has improved a bit by listening to podcasts every day, but the problem is speaking. I need to figure out a good way to do this 😊.
 
 ---
 
