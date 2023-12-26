@@ -10,6 +10,7 @@ Here is a brief summary of my interests and what I am learning.
   - 3DCG / AI / XR
   - SNS
   - ✏️Pencil drawing
+  - Image-generation AI
 - 🌱 I’m currently learning ...
   - English
 
@@ -21,23 +22,11 @@ Here is a brief summary of my interests and what I am learning.
 I have experience in PC application development, web development, and mobile application development. Recently, I have been stuck in image-generating AI and have fewer opportunities to develop, but I would enjoy creating games in Unity (C#) and Python.
 
 - OS
-  - `Windows`
-  - `Mac`
-  - `Linux`
-  - `iOS`
-  - `Android`
-  - `ChromeOS` (+ `ChromeOS Flex`) 
-
+  - `Windows`, `Mac`, `Linux`, `iOS`, `Android`, `ChromeOS` (+ `ChromeOS Flex`) 
 - Programming Languages
-  - `C#`, `Python`, `JavaScript`
-  - `Swift`, `Kotlin`, `Objective-C`, `Java`
-  - `PHP`, `C++`, `VisualBasic`
-
-
+  - `C#`, `Python`, `JavaScript`, `Swift`, `Kotlin`, `Objective-C`, `Java`, `PHP`, `C++`, `VisualBasic`
 - Cloud
-  - `AWS`
-  - `GCP`, `Firebase`
-  - `Azure`
+  - `AWS`, `GCP`, `Firebase`, `Azure`
 - `Unity`, `Unreal Engine`, Web Framework(`Vue.js`, `React`, `Astro`), `Processing` 
 
 `TODO`
@@ -47,9 +36,7 @@ I have experience in PC application development, web development, and mobile app
 ### 3DCG
 As for 3DCG skills,  I prefer modeling inorganic objects such as cars and buildings.I am not good at character modeling/rigging and motion creation.My available 3DCG applications are as follows.
 
-- Cinema4D
-- Max
-- Blender
+- Cinema4D, Max, `Blender`
 
 ```I liked Softimage, although it is no longer available😢```
 
@@ -62,14 +49,10 @@ As for 3DCG skills,  I prefer modeling inorganic objects such as cars and buildi
 #### Image-generation AI
 As for image generation AI, I often use `Midjourney` and occasionally use `Stable Diffusion` as an extension of my development skills. I am also interested in `DALL-E3` recently.
 
-`TODO`
-
 ---
 
 ### XR
-- AR
-- VR
-- MR
+- AR, VR, MR
 
 `TODO`
 
@@ -81,7 +64,7 @@ As for image generation AI, I often use `Midjourney` and occasionally use `Stabl
 `TODO`
 
 ### Pencil drawing
-`TODO`
+I started my practice in October 2023.
 
 ---
 
