@@ -4,13 +4,8 @@ Here is a brief summary of my interests and what I am learning.
 ---
 
 ## Summary：
-
 - 👀 I’m interested in ...
-  - 🛠️Development
-  - 3DCG / AI / XR
-  - SNS
-  - ✏️Pencil drawing
-  - Image-generation AI
+  - 🛠️Development, 3DCG / AI / XR, SNS, ✏️Pencil drawing
 - 🌱 I’m currently learning ...
   - English
 
@@ -18,8 +13,7 @@ Here is a brief summary of my interests and what I am learning.
 
 ## Details:
 ### Development
-
-I have experience in PC application development, web development, and mobile application development. Recently, I have been stuck in image-generating AI and have fewer opportunities to develop, but I would enjoy creating games in Unity (C#) and Python.
+I have experience in PC app development, web development, and mobile app development. Recently, I have become addicted to image-generating AI and have fewer opportunities to develop, but I would enjoy creating games in `Unity` (`C#`) and `Python`.
 
 - OS
   - `Windows`, `Mac`, `Linux`, `iOS`, `Android`, `ChromeOS` (+ `ChromeOS Flex`) 
@@ -29,7 +23,8 @@ I have experience in PC application development, web development, and mobile app
   - `AWS`, `GCP`, `Firebase`, `Azure`
 - `Unity`, `Unreal Engine`, Web Framework(`Vue.js`, `React`, `Astro`), `Processing` 
 
-`TODO`
+And here are some of the programming languages and technologies I would like to learn.
+- `Rust`, `Go`( + `Flutter`),`WASM`, `HLSL`
 
 ---
 
@@ -42,7 +37,6 @@ As for 3DCG skills,  I prefer modeling inorganic objects such as cars and buildi
 
 ---
 ### AI
-
 #### ChatGPT
 `TODO`
 
