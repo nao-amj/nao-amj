@@ -6,7 +6,7 @@ I have the following five accounts on Instagram, each have different targets.
 - ✏️ [nao_amj_pd](https://www.instagram.com/nao_amj_pd/)
 - 🎵 [nao_anm.msc.jpn](https://www.instagram.com/nao_anm.msc.jpn/)😊
 - ⚔️ ch2by.ai
-- 💕 nijijourney.kawaii.ai]
+- 💕 nijijourney.kawaii.ai
 
  I have met many great friends on Instagram. I would like to continue to enjoy communicating with many people through my activities on Instagram.
 
