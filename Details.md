@@ -1,5 +1,19 @@
+My name is nao. Let me introduce myself a little about myself.
 
-## Details:
+I have the following five accounts on Instagram, each have different targets.
+
+- Main: [nao_amj_pd](https://www.instagram.com/nao_amjz/
+- ✏️ [nao_amj_pd](https://www.instagram.com/nao_amj_pd/)
+- 🎵 [nao_anm.msc.jpn](https://www.instagram.com/nao_anm.msc.jpn/)😊
+- ⚔️ [ch2by.ai](https://www.instagram.com/ch2by.ai)
+- 💕 [nijijourney.kawaii.ai](https://www.instagram.com/nijijourney.kawaii.ai/)
+
+ I have met many great friends on Instagram. I would like to continue to enjoy communicating with many people through my activities on Instagram.
+
+---
+
+I am mainly developer with the following experience. 
+
 ### Development
 I have experience in PC app development, web development, and mobile app development. Recently, I have become addicted to image-generating AI and have fewer opportunities to develop, but I would enjoy creating games in `Unity` (`C#`) and `Python`.
 
@@ -31,6 +45,9 @@ As for 3DCG skills,  I prefer modeling inorganic objects such as cars and buildi
 #### Image-generation AI
 As for image generation AI, I often use `Midjourney` and occasionally use `Stable Diffusion` as an extension of my development skills. I am also interested in `DALL-E3` recently.
 
+#### Asure 
+`TODO`
+
 ---
 
 ### XR
@@ -39,11 +56,6 @@ As for image generation AI, I often use `Midjourney` and occasionally use `Stabl
 `TODO`
 
 ---
-
-### SNS
-- On IG, I post what I feel when I listen to my favorite music, along with artwork generated using image generation AI.Each post can be accompanied by music up to 90 seconds long, so I enjoy listening to the music that lines my profile grid every day.Please check out my [Instagram account](https://www.instagram.com/nao_anm.msc.jpn/)😊
-
-`TODO`
 
 ### Pencil drawing
 I started my practice in October 2023.
