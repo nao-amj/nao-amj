@@ -2,7 +2,7 @@ My name is nao. Let me introduce myself a little about myself.
 
 I have the following five accounts on Instagram, each have different targets.
 
-- Main: [nao_amj_pd](https://www.instagram.com/nao_amjz/
+- Main: [nao_amjz](https://www.instagram.com/nao_amjz/)
 - ✏️ [nao_amj_pd](https://www.instagram.com/nao_amj_pd/)
 - 🎵 [nao_anm.msc.jpn](https://www.instagram.com/nao_anm.msc.jpn/)😊
 - ⚔️ [ch2by.ai](https://www.instagram.com/ch2by.ai)
