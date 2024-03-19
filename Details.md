@@ -15,7 +15,7 @@ I have the following five accounts on Instagram, each have different targets.
 I am mainly developer with the following experience. 
 
 ### Development
-I have experience in PC app development, web development, and mobile app development. Recently, I have become addicted to image-generating AI and have fewer opportunities to develop, but I would enjoy creating games in `Unity` (`C#`) and `Python`.
+I have experience in PC app development, web development, and mobile app development. Recently, I have become addicted to image-generating AI and have fewer opportunities to develop, but want to enjoy creating games in `Unity` (`C#`) and `Python`.
 
 - OS
   - `Windows`, `Mac`, `Linux`, `iOS`, `Android`, `ChromeOS` (+ `ChromeOS Flex`) 
@@ -29,6 +29,8 @@ And here are some of the programming languages and technologies I would like to 
 - `Rust`, `Dart`( + `Flutter`),`WASM`, `HLSL`
 
 ---
+
+Please allow me to briefly introduce some of my other experiences and initiatives.
 
 ### 3DCG
 As for 3DCG skills,  I prefer modeling inorganic objects such as cars and buildings.I am not good at character modeling/rigging and motion creation.My available 3DCG applications are as follows.
