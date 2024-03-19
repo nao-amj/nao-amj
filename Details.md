@@ -1,4 +1,4 @@
-My name is nao. Let me introduce myself a little about myself.
+My name is nao. Let me introduce myself a little.
 
 I have the following five accounts on Instagram, each have different targets.
 
@@ -66,6 +66,7 @@ I started my practice in October 2023.
 I am learning to use `Instagram` to improve my English skills.(started in April 2023)
 First, I used translation software (such as DeepL). On Instagram, comments and DMs are the main means of communication, especially DMs, which require speed instead of small granularity of sentences.Communicating through DMs is nerve-wracking, and the speed at which I can think of English on my own is gradually increasing.At the same time, I can learn words, phrases, and slang in parallel, so I feel that I have improved since started Instagram.
 I am still continuing my efforts to improve my English skills (reading and writing) with this study method.My listening has improved a bit by listening to podcasts every day, but the problem is speaking. I need to figure out a good way to do this 😊.
+So in March 2024 I finally tried my hand at voice posting Instagram stories. I was extremely nervous, but it was a great experience. I plan to improve my skills by creating opportunities to force myself to speak.
 
 ---
 
