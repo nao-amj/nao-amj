@@ -87,17 +87,4 @@ So in March 2024, I finally tried my hand at posting audio of my Instagram stori
 ---
 
 
-## Instagram
-I have the following five accounts on Instagram, each have different targets.
-
-- Main: [nao_amjz](https://www.instagram.com/nao_amjz/)
-- ✏️ [nao_amj_pd](https://www.instagram.com/nao_amj_pd/)
-- 🎵 [nao_anm.msc.jpn](https://www.instagram.com/nao_anm.msc.jpn/)😊
-- ⚔️ ch2by.ai
-- 💕 nijijourney.kawaii.ai
-
- I have met many great friends on Instagram. I would like to continue to enjoy communicating with many people through my activities on Instagram.
-
- ---
-
 Thanks for reading to the end😊
