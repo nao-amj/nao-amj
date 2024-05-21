@@ -63,6 +63,7 @@ Most of the time I use MidJourney's “Vary(Region)” feature to work out the d
 
 #### Progress on the way
 I continue to post on my Instagram account dedicated to pencil drawings.
+
 https://www.instagram.com/nao_amj_pd/
 
 ---
