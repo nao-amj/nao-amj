@@ -62,7 +62,7 @@ It depends on the person as to how they utilize AI to generate images. In my cas
 Most of the time I use MidJourney's “Vary(Region)” feature to work out the details in the process. In this case, handwriting skills and knowledge are important.
 
 #### Progress on the way
-I continue to post on our Instagram account dedicated to pencil drawings.
+I continue to post on my Instagram account dedicated to pencil drawings.
 https://www.instagram.com/nao_amj_pd/
 
 ---
