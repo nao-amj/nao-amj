@@ -1,16 +1,14 @@
 👋 Hi, I’m nao! I am the CTO and developer for an AI related company. In my role as a developer, I don't have as much time for programming and design as I used to.
 
----
-
 ## Summary：
 - 👀 I’m interested in ...
   - 🛠️Development, 3DCG / AI / XR, SNS, ✏️Pencil drawing
 - 🌱 I’m currently learning ...
   - English
 
----
+## Details:
+Details are on a [separate page]((Details.md)). If you are interested, please take a look.
 
-## [Details:](Details.md)
 
 
 
