@@ -1,5 +1,4 @@
-👋 Hi, I’m nao!
-Here is a brief summary of my interests and what I am learning.
+👋 Hi, I’m nao! I am the CTO and developer for an AI related company. In my role as a developer, I don't have as much time for programming and design as I used to.
 
 ---
 
