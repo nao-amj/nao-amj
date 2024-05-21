@@ -3,8 +3,6 @@ In my role as a developer, I don't have as much time for programming and design 
 
 ---
 
-I am mainly developer with the following experience. 
-
 ### Development
 I have experience in PC app development, web development, and mobile app development. Recently, I have become addicted to image-generating AI and have fewer opportunities to develop, but want to enjoy creating games in `Unity` (`C#`) and `Python`.
 
