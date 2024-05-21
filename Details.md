@@ -39,14 +39,12 @@ As for 3DCG skills,  I prefer modeling inorganic objects such as cars and buildi
 
 ---
 ### AI
-#### ChatGPT
 `TODO`
 
-#### Image-generation AI
-As for image generation AI, I often use `Midjourney` and occasionally use `Stable Diffusion` as an extension of my development skills. I am also interested in `DALL-E3` recently.
-
-#### Azure AI Platform
-`TODO`
+- ChatGPT
+- Image-generation AI
+   - As for image generation AI, I often use `Midjourney` and occasionally use `Stable Diffusion` as an extension of my development skills. I am also interested in `DALL-E3` recently.
+- Azure AI Platform
 
 ---
 
