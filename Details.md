@@ -23,10 +23,17 @@ And here are some of the programming languages and technologies I would like to 
 
 ## Related Skills
 
-### 3DCG
-As for 3DCG skills,  I prefer modeling inorganic objects such as cars and buildings.I am not good at character modeling/rigging and motion creation.My available 3DCG applications are as follows.
+### Available tools:
+- Git, Docker, Jenkins, Circle CI
+- Xcode, Android Studio, Eclipse
+- Unity, Unreal Engine
+- Photoshop, Illustrator, AE, Microsoft Office
+- Blender, Cinema 4D, 3dsMax
 
-- Cinema4D, Max, `Blender`
+etc.
+
+### 3DCG
+As for 3DCG skills,  I prefer modeling inorganic objects such as cars and buildings.I am not good at character modeling/rigging and motion creation. 
 
 ```I liked Softimage, although it is no longer available😢```
 
