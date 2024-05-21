@@ -1,5 +1,5 @@
 My name is nao. Let me introduce myself a little. I am the CTO and developer for an AI related company.
-In my role as a developer, I am a full stack web and app developer, but I don't have as much time for programming and design as I used to.
+In my role as a developer, I don't have as much time for programming and design as I used to.
 
 ---
 
