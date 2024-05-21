@@ -6,29 +6,38 @@ In my role as a developer, I don't have as much time for programming and design 
 ### Development
 I have experience in PC app development, web development, and mobile app development. Recently, I have become addicted to image-generating AI and have fewer opportunities to develop, but want to enjoy creating games in `Unity` (`C#`) and `Python`.
 
-- OS
-  - `Windows`, `Mac`, `Linux`, `iOS`, `Android`, `ChromeOS` (+ `ChromeOS Flex`) 
-- Programming Languages
-  - `C#`, `Python`, `JavaScript`, `Swift`, `Kotlin`, `Objective-C`, `Java`, `PHP`, `C++`, `VisualBasic`, `Lua`
-- Cloud
-  - `AWS`, `GCP`, `Firebase`, `Azure`
-- `Unity`, `Unreal Engine`, Web Framework(`Vue.js`, `React`, `Astro`), `Processing` 
+### Programming Languages
+- App
+  - PC App: `C#`, `Python`, `C++`, `VisualBasic`, `Lua`
+  - Moblie App: `Swift`, `Kotlin`, `Objective-C`, `Java`, 
+- Web
+  - `PHP`, `JavaScript`, `TypeScript`
+  - Web Framework(`Vue.js`, `React`, `Astro`)
 
 And here are some of the programming languages and technologies I would like to learn.
 - `Rust`, `Dart`( + `Flutter`),`WASM`, `HLSL`
 
----
+### Available OS
+- `Windows`, `Mac`, `Linux`, `iOS`, `Android`, `ChromeOS` (+ `ChromeOS Flex`) 
 
-## Related Skills
-
-### Available tools:
-- Git, Docker, Jenkins, Circle CI
-- Xcode, Android Studio, Eclipse
-- Unity, Unreal Engine
-- Photoshop, Illustrator, AE, Microsoft Office
-- Blender, Cinema 4D, 3dsMax
+### Available tools
+- `Git`, `Docker`, `Jenkins`, `Circle CI`, `Redmine`
+- `Xcode`, `Android Studio`, `Eclipse`
+- `Unity`, `Unreal Engine`
+- `Visual Studio Code`
+- `Photoshop`, `Illustrator`, `After Effects`, `Microsoft Office`
+- `Blender`, `Cinema 4D`, `3dsMax`
 
 etc.
+
+- Cloud
+  - `AWS`, `GCP`, `Firebase`, `Azure`
+- `Unity`, `Unreal Engine`, Web Framework(`Vue.js`, `React`, `Astro`), `Processing` 
+
+
+---
+
+## Other Related Skills
 
 ### 3DCG
 As for 3DCG skills,  I prefer modeling inorganic objects such as cars and buildings.I am not good at character modeling/rigging and motion creation. 
