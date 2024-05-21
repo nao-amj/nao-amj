@@ -7,7 +7,7 @@
   - English
 
 ## Details:
-Details are on a [separate page]((Details.md)). If you are interested, please take a look.
+Details are on a [separate page](Details.md). If you are interested, please take a look.
 
 
 
