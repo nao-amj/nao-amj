@@ -15,7 +15,12 @@ More information about my experience and skills is available on a [separate page
 ---
 
 ## Social Bookmark
-- [Mys Social Bookmark](https://github.com/nao-amj/my-social-bookmark/issues)
+- [My Social Bookmark](https://github.com/nao-amj/my-social-bookmark/issues)
+
+## Task List
+- [My Social Task List](https://github.com/users/nao-amj/projects/4)
+
+---
 
 ## SNS
 ### Instagram
