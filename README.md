@@ -1,8 +1,6 @@
 👋 Hi, I’m nao! I am the CTO and developer for an AI related company. 
 In my role as a developer, I don't have as much time for programming and design as I used to.
 
----
-
 ## Summary
 - 👀 I’m interested in ...
   - 🛠️Development, 3DCG / AI / XR, SNS, ✏️Pencil drawing
@@ -14,29 +12,14 @@ More information about my experience and skills is available on a [separate page
 
 ---
 
-## Social Bookmark
 - [My Social Bookmark](https://github.com/nao-amj/my-social-bookmark/issues)
-
-## Task List
 - [My Social Task List](https://github.com/users/nao-amj/projects/4)
-
----
-
-## SNS
-### Instagram
-I have the following five accounts on Instagram, each have different targets. I have met many great friends on Instagram. I would like to continue to enjoy communicating with many people through my activities on Instagram.
-
-- Main: [nao_amjz](https://www.instagram.com/nao_amjz/)
-- ✏️ [nao_amj_pd](https://www.instagram.com/nao_amj_pd/)
-- 🎵 [nao_anm.msc.jpn](https://www.instagram.com/nao_anm.msc.jpn/)😊
-- ⚔️ ch2by.ai
-- 💕 nijijourney.kawaii.ai
-
-
- 
-
-
-
+- Instagram
+  - Main: [nao_amjz](https://www.instagram.com/nao_amjz/)
+  - ✏️ [nao_amj_pd](https://www.instagram.com/nao_amj_pd/)
+  - 🎵 [nao_anm.msc.jpn](https://www.instagram.com/nao_anm.msc.jpn/)😊
+  - ⚔️ ch2by.ai
+  - 💕 nijijourney.kawaii.ai
 
 <!---
 nao-anm-msc-jpn/nao-anm-msc-jpn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
