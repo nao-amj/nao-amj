@@ -1,4 +1,7 @@
-👋 Hi, I’m nao! I am the CTO and developer for an AI related company. In my role as a developer, I don't have as much time for programming and design as I used to.
+👋 Hi, I’m nao! I am the CTO and developer for an AI related company. 
+In my role as a developer, I don't have as much time for programming and design as I used to.
+
+---
 
 ## Summary
 - 👀 I’m interested in ...
